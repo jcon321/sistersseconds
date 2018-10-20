@@ -1,17 +1,20 @@
 # Theme customization - please change from the defaults!
 
 # Color for top bar, links, etc
-highlight_color: '#86d59c'
+highlight_color: '#fda2c6' 
+# pink #fda2c6
+# green #86d59c
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  github: swanson
+  #github: swanson
   #bitbucket: philipj
-  hacker_news: swanson
+  #hacker_news: swanson
   #stackexchange: 348619
   #stackoverflow: 348619
-  twitter: _swanson
-  #facebook: zuck
+  #twitter: _swanson
+  facebook: sistersseconds
+  instagram: sistersseconds
   #tumblr: animalygifs
   #linkedin: philipjagielski
   #gplus: 110552447039675960964
@@ -30,4 +33,4 @@ google_analytics_key: UA-xxxx-x
 show_disclaimer: true
 
 # Toggle link/icon to view atom feed (/atom.xml) in sidebar
-show_atom_feed: true
+show_atom_feed: false
