@@ -22,15 +22,12 @@ social:
   #flickr: johndoe
 
 # "Hi, I'm _______"
-name: Matt Swanson
-email: test@example.com
-tagline: "weak opinions, strongly held"
+name: Sisters Seconds
+email: sisters_seconds@yahoo.com
+tagline: "Only vintage shop in Palm Bay. Friendly service and excellent prices. Farmhouse, shabby chic, coastal, steampunk and more!"
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key: UA-xxxx-x
-
-# Toggle "Postings are my own" disclaimer in footer
-show_disclaimer: true
 
 # Toggle link/icon to view atom feed (/atom.xml) in sidebar
 show_atom_feed: false
