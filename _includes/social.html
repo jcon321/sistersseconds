@@ -70,6 +70,12 @@
     <i class="fa fa-instagram"></i>
   </a>
   {% endif %}
+  
+  {% if site.data.theme.social.email %}
+  <a title="{{ site.data.theme.name }} on Email" href="mailto:{{ site.data.theme.social.email }}">
+    <i class="fa fa-envelope-o"></i>
+  </a>
+  {% endif %}
 
   {% if site.data.theme.show_atom_feed %}
   <a title="Atom feed" id="atom" href="/atom.xml">
