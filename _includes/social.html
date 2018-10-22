@@ -35,6 +35,12 @@
   </a>
   {% endif %}
 
+  {% if site.data.theme.social.phone %}
+  <a title="{{ site.data.theme.name }} Phone Number: {{ site.data.theme.social.phone }}" href="#" onclick="toggle_visibility('phoneNumber');">
+    <i class="fa fa-phone"></i>
+  </a>
+  {% endif %}
+
   {% if site.data.theme.social.facebook %}
   <a title="{{ site.data.theme.name }} on Facebook" href="https://facebook.com/{{ site.data.theme.social.facebook }}">
     <i class="fa fa-facebook-square"></i>
@@ -72,7 +78,7 @@
   {% endif %}
   
   {% if site.data.theme.social.email %}
-  <a title="{{ site.data.theme.name }} on Email" href="mailto:{{ site.data.theme.social.email }}">
+  <a title="{{ site.data.theme.name }} on Email: {{ site.data.theme.social.email }}" href="mailto:{{ site.data.theme.social.email }}">
     <i class="fa fa-envelope-o"></i>
   </a>
   {% endif %}
