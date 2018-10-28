@@ -5,6 +5,8 @@ categories:
 - blog
 ---
 
+![Test Screenshot](/assets/img/ss_dining1.jpg)
+
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 
 meggings hella selvage. Butcher bespoke seitan, cornhole umami gentrify put a bird 
 on it occupy trust fund. Umami whatever kitsch, locavore fingerstache Tumblr pork belly
@@ -14,6 +16,7 @@ Truffaut. Forage mustache Thundercats next level disrupt. Bicycle rights forage 
 chia, **wayfarers** swag raw denim hashtag biodiesel occupy gastropub!
 
 ---
+
 
 # It's all in the game.
 
