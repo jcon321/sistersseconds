@@ -42,6 +42,7 @@
 		border: 0px;
 		padding-left: 0px;
 	}
+	
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
@@ -53,6 +54,10 @@
 	h1 {
 		font-size: 28px;
 		line-height: 36px;
+	}
+	
+	img {
+		max-width: 300px;
 	}
 }
 
@@ -70,5 +75,8 @@
 	h2 {
 		font-size: 22px;
 		line-height: 24px;
+	}
+	img {
+		max-width: 300px;
 	}
 }
