@@ -1,6 +1,5 @@
 # General Jekyll Config
 highlighter: rouge
-baseurl: /sisterseconds
-url: http://jcon321.github.io
+url: http://jcon321.github.io/sistersseconds
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
