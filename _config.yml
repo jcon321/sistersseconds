@@ -1,5 +1,6 @@
 # General Jekyll Config
 highlighter: rouge
 url: https://sistersseconds.com
+root: /
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
